@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "start": "serve",
-    "build": "build --output public"
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
   },
   "repository": {
     "type": "git",
